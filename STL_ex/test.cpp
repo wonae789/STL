@@ -31,6 +31,7 @@ public:
 };
 
 
+
 int main()
 {
 	Point* p1 = new Point(2, 3);
