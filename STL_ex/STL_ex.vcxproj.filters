@@ -21,5 +21,8 @@
     <ClCompile Include="function_template.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="vector_container.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
