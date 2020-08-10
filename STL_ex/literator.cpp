@@ -10,6 +10,7 @@ int main()
 	v.push_back(30);
 	v.push_back(40);
 
+
 	try {
 		cout << v[0] << endl;
 		cout << v[3] << endl;
@@ -19,6 +20,7 @@ int main()
 	{
 		cout << e.what() << endl;
 	}
+
 
 	return 0;
 }
